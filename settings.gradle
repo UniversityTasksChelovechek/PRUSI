@@ -1,0 +1,5 @@
+rootProject.name = 'PRUSI'
+include(":lab2")
+include(":lab3")
+include(":lab4")
+
