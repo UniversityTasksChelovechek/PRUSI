@@ -1,0 +1,4 @@
+dependencies {
+    implementation 'gov.nist.math:jama:1.0.3'
+    implementation 'org.jfree:jfreechart:1.0.19'
+}
